@@ -3,6 +3,9 @@ description: A thin wrap over JS audio APIs for Dart/Flutter
 version: 0.1.0
 homepage: https://github.com/luanpotter/dart_web_audio
 
+dependencies:
+  js: ^0.6.0
+
 environment:
   sdk: ">=2.6.0 <3.0.0"
 
