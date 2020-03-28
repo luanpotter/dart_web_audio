@@ -1,6 +1,6 @@
 name: dart_web_audio
 description: A thin wrap over JS audio APIs for Dart/Flutter. This is used by the audioplayers package to provie support for Flutter Web.
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/luanpotter/dart_web_audio
 
 dependencies:
