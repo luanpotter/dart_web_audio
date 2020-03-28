@@ -4,6 +4,7 @@ library lib.dom.audio;
 import "package:js/js.dart";
 import "package:js/js_util.dart" show promiseToFuture;
 import "dart:typed_data" show Uint8List, Float32List, ByteBuffer;
+
 @anonymous
 @JS()
 abstract class EventInit {
